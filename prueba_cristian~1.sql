@@ -1,0 +1,11 @@
+ALTER TABLE review ADD CONSTRAINT pk_review_Id PRIMARY KEY (ide);
+
+ALTER TABLE usuario ADD CONSTRAINT pk_usuario_Id PRIMARY KEY (ide);
+
+ALTER TABLE amenity ADD CONSTRAINT pk_amenity_Id PRIMARY KEY (ide);
+
+ALTER TABLE states ADD CONSTRAINT pk_states_Id PRIMARY KEY (ide);
+
+ALTER TABLE city ADD CONSTRAINT pk_city_Id PRIMARY KEY (ide);
+
+ALTER TABLE place ADD CONSTRAINT pk_place_Id PRIMARY KEY (ide);
