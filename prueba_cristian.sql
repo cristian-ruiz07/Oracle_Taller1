@@ -6,7 +6,6 @@ user_id varchar(20),
 place_id varchar(20),
 text_ varchar(20)
 );
-
 CREATE TABLE usuario ( 
 ide varchar(20), 
 updated_at DATE,
