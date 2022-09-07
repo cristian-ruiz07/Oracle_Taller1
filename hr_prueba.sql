@@ -1,1 +1,3 @@
-GRANT ALL ON JOBS TO prueba;
+select * from employees;
+
+GRANT ALL PRIVILEGES TO AIRBNB;
